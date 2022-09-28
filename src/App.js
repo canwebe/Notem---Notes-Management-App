@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+        CanWeBe Notes Management System Starting Soon ....!!!!
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://www.canwebe.tech"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Know more about CanWeBe !!!!
         </a>
       </header>
     </div>
